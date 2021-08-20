@@ -17,5 +17,7 @@ HTML<br>
 
 ## Programming languages that i am learning
 Kotlin<br>
+C<br>
+C#<br>
 C++<br>
 
