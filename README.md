@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ClientSiderz/ClientSiderz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+Discord: ClientSiders#0001
+Youtube: https://www.youtube.com/c/ClientSiders
 
-Here are some ideas to get you started:
+## Projects that i am working on
+Meow Client (https://meowclient.glitch.me)
+Dill Bot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages that i know
+Java
+JavaScript
+Python
+CSS
+HTML
+
+## Programming languages that i am learning
+Kotlin
+C++
+
