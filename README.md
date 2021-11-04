@@ -1,22 +1,23 @@
 ### Hi there 👋
 
 ## Contact
-Discord: ClientSiders#0001<br>
+Discord: ClientSiders#0040<br>
 Youtube: https://www.youtube.com/c/ClientSiders<br>
 
-## Projects that i am working on
+## ⚒ Projects that i am working on
 Meow Client (https://meowclient.glitch.me)<br><br>
 Dill Bot<br>
 
-## Programming languages that i know
+## 💖 Programming languages that i know
 Java<br>
+Kotlin<br>
 JavaScript<br>
 Python<br>
 CSS<br>
 HTML<br>
+Go<br>
 
-## Programming languages that i am learning
-Kotlin<br>
+## 🧠 Programming languages that i am learning
 C<br>
 C#<br>
 C++<br>
