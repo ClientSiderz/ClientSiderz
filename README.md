@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## Contact
+## 📱 Contact
 Discord: ClientSiders#0040<br>
 Youtube: https://www.youtube.com/c/ClientSiders<br>
 
 ## ⚒ Projects that i am working on
-Meow Client (https://meowclient.club)<br><br>
+Meow Client (https://meowclient.club)<br>
 Dill Bot<br>
 
 ## 💖 Programming languages that i know
