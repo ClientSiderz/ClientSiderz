@@ -6,6 +6,7 @@ Youtube: https://www.youtube.com/c/ClientSiders<br>
 
 ## ⚒ Projects that i am working on
 Meow Client (https://meowclient.club)<br>
+Async Client (https://async-client.club)<br>
 Dill Bot<br>
 
 ## 💖 Programming languages that i know
