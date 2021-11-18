@@ -16,8 +16,6 @@ Python<br>
 CSS<br>
 HTML<br>
 Go<br>
-
-## 🧠 Programming languages that i am learning
 C<br>
 C#<br>
 C++<br>
