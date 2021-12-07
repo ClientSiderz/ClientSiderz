@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=plastic" alt="ClientSiderz" /> </p>
 
-## ✨ Information
+### ✨ Information
 Name: Richard/Rihards<br>
 Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
 
-## 📱 Contact
+### 📱 Contact
 Discord: ClientSiders#0040<br>
 Youtube: https://www.youtube.com/c/ClientSiders<br>
 
-## ⚒ Projects
+### ⚒ Projects
 [Meow Client](https://meowclient.club)<br>
 [Dill Bot](https://discord.com/api/oauth2/authorize?client_id=821462938820935700&permissions=403995486295&scope=bot%20applications.commands)<br>
 
