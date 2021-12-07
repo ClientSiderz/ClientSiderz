@@ -16,9 +16,9 @@ Youtube: https://www.youtube.com/c/ClientSiders<br>
 
 
 <a href="https://github.com/ClientSiderz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=dark&hide_langs_below=1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=dark_dimmed&hide_langs_below=1">
 </a>
 <a href="https://github.com/ClientSiderz">
- <img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=dark">
+ <img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=dark_dimmed">
 </a>
 
