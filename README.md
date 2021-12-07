@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## ✨ Information
-Name: Richard/Rihards
-Gender: he/him/Male
-Hobbies: Games, Game Modification Development, Web Development
+Name: Richard/Rihards<br>
+Gender: he/him/Male<br>
+Hobbies: Games, Game Modification Development, Web Development<br>
 
 ## 📱 Contact
 Discord: ClientSiders#0040<br>
