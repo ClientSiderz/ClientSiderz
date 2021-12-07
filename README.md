@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="ClientSiderz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=plastic" alt="ClientSiderz" /> </p>
 
 ## ✨ Information
 Name: Richard/Rihards<br>
