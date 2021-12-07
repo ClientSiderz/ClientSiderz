@@ -20,3 +20,5 @@ C<br>
 C#<br>
 C++<br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&&show_icons=true&title_color=ffffff&icon_color=a750ce&text_color=ffffff&bg_color=4b0d68">
+
