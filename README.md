@@ -7,7 +7,7 @@ Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
 
 ### 📱 Contact
-Discord: ClientSiders#0040<br>
+Discord: xLore#6737<br>
 Youtube: https://www.youtube.com/c/ClientSiders<br>
 
 ### ⚒ Projects
