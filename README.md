@@ -8,7 +8,7 @@ Hobbies: Games, Game Modification Development, Web Development<br>
 
 ### 📱 Contact
 Discord: ClientSiders#6737<br>
-Youtube: https://www.youtube.com/c/ClientSiderz<br>
+Youtube: https://www.youtube.com/c/ClientSidersFR<br>
 
 ### 🧠 Languages
 [MeowScript](https://meowclient.club) (SOON)<br>
