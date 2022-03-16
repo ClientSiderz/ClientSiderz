@@ -6,7 +6,7 @@ Age: 13<br>
 Name: Richard/Rihards<br>
 Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
-Born: 03.18.2008
+Birthday: March 18th
 
 ### 📱 Contact
 Discord: ClientSiders#6737<br>
