@@ -2,9 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=plastic" alt="ClientSiderz" /> </p>
 
 ### ✨ Information
+Age: 13
 Name: Richard/Rihards<br>
 Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
+Birthday: 03/18
 
 ### 📱 Contact
 Discord: ClientSiders#6737<br>
