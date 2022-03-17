@@ -9,7 +9,7 @@ Hobbies: Games, Game Modification Development, Web Development<br>
 Birthday: March 18th
 
 ### 📱 Contact
-Discord: ClientSiders#6737<br>
+Discord: ClientSiders#0001<br>
 Youtube: https://www.youtube.com/c/ClientSidersFR<br>
 
 ### 🧠 Languages
