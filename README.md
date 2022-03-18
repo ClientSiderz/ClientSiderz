@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=plastic" alt="ClientSiderz" /> </p>
 
 ### ✨ Information
-Age: 13<br>
+Age: 14<br>
 Name: Richard/Rihards<br>
 Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
