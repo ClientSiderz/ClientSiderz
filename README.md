@@ -7,7 +7,6 @@ Name: Richard/Rihards<br>
 Gender: he/him/Male<br>
 Hobbies: Games, Game Modification Development, Web Development<br>
 Birthday: March 18th<br>
-Current Disorders: Bipolar
 
 ### 📱 Contact
 Discord: ClientSiders#0001<br>
