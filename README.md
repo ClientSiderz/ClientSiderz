@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=flat" alt="ClientSiderz" /> <img src="https://img.shields.io/github/stars/ClientSiderz?style=social" alt="ClientSiderz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=flat" alt="ClientSiderz" /> <img src="https://img.shields.io/github/stars/ClientSiderz?color=green&style=flat" alt="ClientSiderz" /> </p>
 
 ### ✨ Information
 Age: 14<br>
