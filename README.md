@@ -18,4 +18,4 @@
 <a href="https://github.com/ClientSiderz">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=darcula&hide_border=true">
 </a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clientsiderz&theme=darcula"/></p>
