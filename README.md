@@ -30,9 +30,9 @@ Youtube: https://www.youtube.com/c/ClientSidersFR<br>
 
 
 <a href="https://github.com/ClientSiderz">
- <img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=dracula">
+ <img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=darcula&count_private=true">
 </a>
 <a href="https://github.com/ClientSiderz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=dracula&hide_langs_below=1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=darcula&hide_langs_below=1">
 </a>
 
