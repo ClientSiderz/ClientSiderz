@@ -14,4 +14,4 @@
 
 <p> <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClientSiderz&show_icons=true&theme=darcula&count_private=true&hide_border=true"> </p>
 <p> <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=darcula&hide_border=true&exclude_repo=ClientBase"> </p>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clientsiderz&theme=darcula&hide_border=true"/> </p>
+<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=clientsiderz&theme=darcula&hide_border=true"/> </p>
