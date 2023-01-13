@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate software developer from Latvia</h3>
+<h3 align="center">A software developer from Latvia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=flat" alt="ClientSiderz" /> <img src="https://img.shields.io/github/stars/ClientSiderz?color=green&style=flat" alt="ClientSiderz" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clientsiderz" alt="clientsiderz" /></a> </p>
 
 <h4 align="center">
 - 🔭 I’m currently working on Meow Client and Dill Bot
