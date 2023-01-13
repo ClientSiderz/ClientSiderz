@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clientsiderz" alt="clientsiderz" /></a> </p>
 
-<p align="center">
-🔭 I’m currently working on [Meow Client](https://meowclient.club/), [Dill Bot](https://discord.com/api/oauth2/authorize?client_id=821462938820935700&permissions=403995486295&scope=bot%20applications.commands)
+<h4 align="center">
+- 🔭 I’m currently working on [Meow Client](https://meowclient.club/), [Dill Bot](https://discord.com/api/oauth2/authorize?client_id=821462938820935700&permissions=403995486295&scope=bot%20applications.commands)
 
-🌱 I’m currently learning **C++, C, Ruby, Rust**
+- 🌱 I’m currently learning **C++, C, Ruby, Rust**
 
-💬 Ask me about **Java, Kotlin, JS, CSS, SCSS**
-</p>
+- 💬 Ask me about **Java, Kotlin, JS, CSS, SCSS**
+</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
