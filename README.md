@@ -6,11 +6,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clientsiderz" alt="clientsiderz" /></a> </p>
 
 <h4 align="center">
-🔭 I’m currently working on Meow Client and Dill Bot
+- 🔭 I’m currently working on Meow Client and Dill Bot
 
-🌱 I’m currently learning **C++, C, Ruby, Rust**
+- 🌱 I’m currently learning **C++, C, Ruby, Rust**
 
-💬 Ask me about **Java, Kotlin, JS, CSS, SCSS**
+- 💬 Ask me about **Java, Kotlin, JS, CSS, SCSS**
 </h4>
 
 <h3 align="center">Connect with me:</h3>
