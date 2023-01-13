@@ -3,14 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=flat" alt="ClientSiderz" /> <img src="https://img.shields.io/github/stars/ClientSiderz?color=green&style=flat" alt="ClientSiderz" /> </p>
 
-<h4 align="center">
-- 🔭 I’m currently working on Meow Client and Dill Bot
-
-- 🌱 I’m currently learning **C++, C, Ruby, Rust**
-
-- 💬 Ask me about **Java, Kotlin, JS, CSS, SCSS**
-</h4>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/clientsiders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clientsiders" height="30" width="40" /></a>
