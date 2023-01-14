@@ -37,13 +37,15 @@
 <a href='https://www.ruby-lang.org/en/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Ruby&color=%23CC342D&style=for-the-badge&logo=Ruby&logoColor=%23fff'></a>
 <a href='https://www.rust-lang.org' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Rust&color=%23000000&style=for-the-badge&logo=Rust&logoColor=%23fff'></a>
 </div>
+
 <h3 align="center">Statistics:</h3>
+
 <div align="center">
+
 <span>
 <a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClientSiderz&show_icons=true&theme=nord&card_width=500&count_private=true&hide_border=true">
 </span>
-<span>
-<a href="#" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=clientsiderz&theme=nord&card_width=500&hide_border=true"/> 
-</span><br>
-<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=1000&hide_border=true&exclude_repo=ClientBase">
+
+<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&hide_border=true&exclude_repo=ClientBase">
+
 </div>
