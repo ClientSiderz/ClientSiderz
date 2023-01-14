@@ -14,7 +14,7 @@
 
 <h3 align="center">Spotify:</h3>
 <div align="center"> 
-  <a href="https://open.spotify.com/user/31vhzcixd4ue2xovnw6gelsdac3m?si=d5ae293e09154859" target="blank"><img src="https://novatorem-clientsiderz.vercel.app/api/spotify" alt="ClientSiders Spotify Playing" width="350" /> 
+  <a href="https://open.spotify.com/user/31vhzcixd4ue2xovnw6gelsdac3m?si=d5ae293e09154859" target="blank"><img src="https://novatorem-clientsiderz.vercel.app/api/spotify/?background_color=2e3440" alt="ClientSiders Spotify Playing" width="350" /> 
 </div>
 
 <h3 align="center">Statistics:</h3>
