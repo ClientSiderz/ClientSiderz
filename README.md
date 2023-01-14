@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@ClientSidersLV" target="blank"><img src='https://img.shields.io/static/v1?label=&message=ClientSiders&color=%23FF0000&style=for-the-badge&logo=youtube'></a>
   <a href="https://discord.io/MeowClient" target="blank"><img src='https://img.shields.io/static/v1?label=&message=meow+client&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'></a>
 </div>
-<h3 align='center'>Languages & tools:</h3>
+<h3 align='center'>Languages & Tools:</h3>
 <div align='center'>
 <a href='https://www.arduino.cc/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Arduino&color=%2300979D&style=for-the-badge&logo=Arduino&logoColor=%23fff'></a>
 <a href='https://www.gnu.org/software/bash/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=BASH&color=%234EAA25&style=for-the-badge&logo=GNU+Bash&logoColor=%23fff'></a>
