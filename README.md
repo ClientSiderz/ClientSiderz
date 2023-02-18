@@ -1,8 +1,8 @@
 
 
-<h1 align='center'>Hi 👋, I'm <br><img src='https://github.com/iamstrawberry/tayeba/blob/591185de9ede08b76620093d06e71e85c0fe0ab8/Richard.png?raw=true' width='150'></h1>
+<h1 align='center'>Hi 👋, I'm <br><img src='https://github.com/ClientSiderz/ClientSiderz/blob/main/Richard.png?raw=true?raw=true' width='150'></h1>
 
-<h3 align='center'>A Software developer from Latvia 🇱🇻</h3>
+<h3 align='center'>A Software developer from Latvia 🇱🇻 </h3>
 
 <div align='center'>
   <img src='https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=for-the-badge'>
