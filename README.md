@@ -10,8 +10,9 @@
 </div>
 <h3 align='center'>My Socials:</h3>
 <div align='center'>
-  <a href="https://www.youtube.com/@ClientSidersLV" target="blank"><img src='https://img.shields.io/static/v1?label=&message=ClientSiders&color=%23FF0000&style=for-the-badge&logo=youtube'></a>
+  <a href="https://www.youtube.com/@ClientSiders" target="blank"><img src='https://img.shields.io/static/v1?label=&message=ClientSiders&color=%23FF0000&style=for-the-badge&logo=youtube'></a>
   <a href="https://discord.gg/pZ9ZsKwq8h" target="blank"><img src='https://img.shields.io/static/v1?label=&message=meow+client&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'></a>
+  <a href="https://discord.gg/ugtpsVfztb" target="blank"><img src='https://img.shields.io/static/v1?label=&message=clientsiders+community&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'></a>
 </div>
 <h3 align='center'>Languages & Tools:</h3>
 <div align='center'>
