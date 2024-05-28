@@ -18,9 +18,6 @@
 <a href='https://www.arduino.cc/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Arduino&color=%2300979D&style=for-the-badge&logo=Arduino&logoColor=%23fff'></a>
 <a href='https://www.gnu.org/software/bash/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=BASH&color=%234EAA25&style=for-the-badge&logo=GNU+Bash&logoColor=%23fff'></a>
 <a href='https://getbootstrap.com' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Bootstrap&color=%237952B3&style=for-the-badge&logo=Bootstrap&logoColor=%23fff'></a>
-<a href='https://www.cprogramming.com/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=programming+language&color=%23A8B9CC&style=for-the-badge&logo=C&logoColor=%23fff'></a>
-<a href='https://www.w3schools.com/cpp/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=programming+language&color=%2300599C&style=for-the-badge&logo=C%2B%2B&logoColor=%23fff'></a>
-<a href='https://www.w3schools.com/cs/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=programming+language&color=%23239120&style=for-the-badge&logo=C+sharp&logoColor=%23fff'></a>
 <a href='https://www.w3schools.com/css/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=CSS&color=%231572B6&style=for-the-badge&logo=CSS3&logoColor=%23fff'></a>
 <a href='https://dotnet.microsoft.com/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=microsoft&color=%23512BD4&style=for-the-badge&logo=.NET&logoColor=%23fff'></a>
 <a href='https://www.electronjs.org' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Electron&color=%2347848F&style=for-the-badge&logo=Electron&logoColor=%23fff'></a>
@@ -34,7 +31,6 @@
 <a href='https://www.mongodb.com/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Mongo+DB&color=%2347A248&style=for-the-badge&logo=MongoDB&logoColor=%23fff'></a>
 <a href='https://nodejs.org' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Node.js&color=%23339933&style=for-the-badge&logo=Node.js&logoColor=%23fff'></a>
 <a href='https://www.python.org' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&style=for-the-badge&logo=Python&logoColor=%23fff'></a>
-<a href='https://www.ruby-lang.org/en/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Ruby&color=%23CC342D&style=for-the-badge&logo=Ruby&logoColor=%23fff'></a>
 <a href='https://www.rust-lang.org' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Rust&color=%23000000&style=for-the-badge&logo=Rust&logoColor=%23fff'></a>
 </div>
 
