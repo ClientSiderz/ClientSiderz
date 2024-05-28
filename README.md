@@ -42,6 +42,6 @@
 <a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClientSiderz&show_icons=true&theme=nord&card_width=500&count_private=true&hide_border=true">
 </span>
 
-<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&hide_border=true">
+<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&hide_border=true&exclude_repo=ClientBase">
 
 </div>
