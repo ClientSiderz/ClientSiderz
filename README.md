@@ -1,8 +1,8 @@
 
 
-<h1 align='center'>Hi 👋, I'm <br><img src='https://github.com/ClientSiderz/ClientSiderz/blob/main/Richard.png?raw=true?raw=true' width='150'></h1>
+<h1 align='center'>Hi 👋, I'm <br>Rihards</h1>
 
-<h3 align='center'>A Software developer from Latvia 🇱🇻 </h3>
+<h3 align='center'>A Software Developer from Latvia 🇱🇻 </h3>
 
 <div align='center'>
   <img src='https://komarev.com/ghpvc/?username=ClientSiderz&label=Views&color=blue&style=for-the-badge'>
@@ -12,7 +12,7 @@
 <div align='center'>
   <a href="https://www.youtube.com/@ClientSiders" target="blank"><img src='https://img.shields.io/static/v1?label=&message=ClientSiders&color=%23FF0000&style=for-the-badge&logo=youtube'></a>
   <a href="https://discord.gg/pZ9ZsKwq8h" target="blank"><img src='https://img.shields.io/static/v1?label=&message=meow+client&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'></a>
-  <a href="https://discord.gg/ugtpsVfztb" target="blank"><img src='https://img.shields.io/static/v1?label=&message=clientsiders+community&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'></a>
+  <img src='https://img.shields.io/static/v1?label=&message=@clientsiders&color=%235562EA&style=for-the-badge&logo=Discord&logoColor=%23fff'>
 </div>
 <h3 align='center'>Languages & Tools:</h3>
 <div align='center'>
@@ -40,9 +40,9 @@
 <div align="center">
 
 <span>
-<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClientSiderz&show_icons=true&theme=nord&card_width=500&count_private=true&hide_border=true">
+<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=nord&card_width=500&count_private=true&hide_border=true">
 </span>
 
-<a href="#" target="blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&hide_border=true&exclude_repo=ClientBase">
+<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&hide_border=true&exclude_repo=ClientBase">
 
 </div>
