@@ -33,6 +33,8 @@
 <a href='https://cloud.google.com' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Google+Cloud&color=%234285F4&style=for-the-badge&logo=Google+Cloud&logoColor=%23fff'></a>
 <a href='https://git-scm.com/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=Git&logoColor=%23fff'></a>
 <a href='https://www.mongodb.com/' target='_blank'><img src='https://img.shields.io/static/v1?label=&message=Mongo+DB&color=%2347A248&style=for-the-badge&logo=MongoDB&logoColor=%23fff'></a>
+
+![snake gif](https://github.com/ClientSiderz/ClientSiderz/blob/output/github-snake-dark.svg)
 </div>
 
 <h3 align="center">Statistics:</h3>
@@ -45,5 +47,4 @@
   
 <a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&layout=compact&hide_border=true&exclude_repo=ClientBase">
 
-![snake gif](https://github.com/ClientSiderz/ClientSiderz/blob/output/github-snake-dark.svg)
 </div>
