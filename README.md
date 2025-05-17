@@ -46,9 +46,9 @@
 <div align="center">
 
 <span>
-<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=nord&card_width=500&count_private=true&hide_border=true">
+<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=ClientSiderz&show_icons=true&theme=transparent&card_width=500&count_private=true&hide_border=true">
 <span>
   
-<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=nord&card_width=500&layout=compact&hide_border=true&exclude_repo=ClientBase">
+<a href="#" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSiderz&theme=transparent&card_width=500&layout=compact&hide_border=true&exclude_repo=ClientBase">
 
 </div>
